@@ -1,6 +1,5 @@
 # Hangman in Python
 import random
-from tkinter import W
 
 hangman_art = {                0: ("   ",
                                    "   ",
