@@ -37,7 +37,7 @@ Use code with caution.
 ---
 1. ### **Hangman:**
 Clone the repository and navigate to the hangman directory.
-Run the `Hangman game.py` file.
+Run the `HangmanGame.py` file.
 
 2. ### **Chatbot:**
 Clone the repository and navigate to the chatbot directory.
@@ -45,7 +45,7 @@ Run the `Chatbot.py` file.
 
 3. ### **File Organizer:**
 Clone the repository and navigate to the file_organizer directory.
-Run the `file organizer (Automation with python ).py` file and enter the path to the directory you want to organize.
+Run the `File organizer (automation with python).py` file and enter the path to the directory you want to organize.
 
 ## **Contributing:**
 ---
