@@ -41,7 +41,7 @@ Run the `Hangman game.py` file.
 
 2. ### **Chatbot:**
 Clone the repository and navigate to the chatbot directory.
-Run the `chatbot.py` file.
+Run the `Chatbot.py` file.
 
 3. ### **File Organizer:**
 Clone the repository and navigate to the file_organizer directory.
